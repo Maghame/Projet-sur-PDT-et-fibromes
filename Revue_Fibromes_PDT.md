@@ -1,15 +1,10 @@
-# La Thérapie Photodynamique appliquée aux Fibromes Utérins
-
-Ce stage porte sur l'optimisation de nanoparticules de BODIPY pour une thérapie combinée photodynamique (PDT) et photothermique (PTT) ciblée sur les cellules de cancer du sein triple négatif (TNBC). L'objectif est de concevoir, modéliser et benchmarker des agents théranostiques capables d'une double action (imagerie et traitement) via des approches computationnelles avancées.
+# La thérapie photodynamique appliquée aux fibromes utérins
 
 Ce projet de recherche porte sur l' optimisation des fluorophores organiques pour une thérapie photodynamique appliquée aux fibromes uterins (des tumeurs qui se développent à partir des cellules musculaires lisses de l'utérus). L'objectif est de concevoir, modéliser et benchmarker des sondes photoactives capables d'une double action (imagerie et traitement) via des approches computationnelles avancées. 
 
-
-La conception et la modélisation moléculaire de c sont nécessaires pour augmenter le rendement quantique en oxygène singulet et la sélectivité pour les cellules musculaires lisses constituant le fibrome, afin d'assurer un traitement conservateur, efficace et récurrentiel.
-
 ***
 
-# Introduction à la Thérapie Photodynamique appliquée aux Fibromes Utérins
+# Introduction 
 
 ## 1. Contexte Clinique et Problématique : Les Fibromes Utérins
 
