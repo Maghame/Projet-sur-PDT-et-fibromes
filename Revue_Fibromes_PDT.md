@@ -1,10 +1,10 @@
 # La thérapie photodynamique appliquée aux fibromes utérins
-***
+
 
 Ce projet de recherche porte sur l' optimisation des fluorophores organiques pour une thérapie photodynamique appliquée aux fibromes uterins (des tumeurs qui se développent à partir des cellules musculaires lisses de l'utérus). L'objectif est de concevoir, modéliser et benchmarker des sondes photoactives capables d'une double action (imagerie et traitement) via des approches computationnelles avancées. 
 
 ## 1. Contexte generale 
-*
+
 ### 1.1. Définition
 
 Les **fibromes utérins** (léiomyomes ou myomes) sont la **tumeur gynécologique bénigne la plus fréquente** chez la femme . Ces tumeurs, formées par la prolifération de cellules musculaires lisses de l'utérus, sont fortement influencées par les **hormones stéroïdes ovariennes** (œstrogènes et progestérone) .
@@ -36,7 +36,7 @@ Face à ces limites qui compromettent soit la fonction, soit la sécurité, le d
 ***
 
 ## 2. Contexte scientifique et technologique : La thérapie photodynamique comme stratégie théranostique
-*
+
 ### 2.1. Introduction et mécanisme de la thérapie photodynamique
 La thérapie photodynamique est une approche basée sur l’action sélective par la lumière de médicaments, dits photosensibilisateurs. Ces molécules, non toxiques en absence d’une lumière de longueur d’onde appropriée, génèrent, après irradiation lumineuse et en présence d’oxygène, des espèces très réactives entraînant la destruction du tissu cible. Elle est  reconnue pour son potentiel dans le traitement des maladies oncologiques (maladies liées au cancer) et non-oncologiques (maladies qui ne sont pas liées au cance). Elle constitue une alternative innovante.
 
@@ -66,14 +66,27 @@ Pour que la PDT soit efficace contre les fibromes, qui sont des tumeurs myométr
 
 
 ## 3. Problématique
-*
+
 Les fibromes utérins représentent un problème majeur de santé publique et les traitements actuels restent limités.  
 Bien que prometteuse, la thérapie photodynamique actuellement ne dispose pas de photosensibilisateur spécifiquement optimisé pour cibler les cellules de fibrome, d’où la nécessité d’une conception de **photosensibilisateurs de 3ᵉ génération**.
 
 **Problématique :**  
 *Comment concevoir, modéliser et évaluer un photosensibilisateur de 3ᵉ génération capable de cibler efficacement les fibromes utérins tout en préservant le myomètre sain ?
 
-**
+
+## 4. Hypothèses de recherche
+
+### Hypothèse principale
+Un photosensibilisateur de 3ᵉ génération, optimisé par modélisation moléculaire et adapté aux propriétés optiques du tissu utérin, permettra une destruction sélective et efficace des cellules myomateuses via la thérapie photodynamique.
+
+### Hypothèses secondaires
+1. Les fibromes présentent une signature moléculaire exploitable pour le ciblage sélectif d’un PS.  
+2. L’optimisation des propriétés photophysiques du PS (absorption proche infrarouge, solubilité, stabilité) améliore la pénétration tissulaire.  
+3. La modélisation in silico permet de prédire l'affinité, la stabilité et la toxicité potentielle du PS.  
+4. La PDT pourrait représenter une alternative accessible et moins invasive pour les systèmes de santé, notamment en Afrique.
+
+---
+
 
 ## 3. Justification du Projet et Objectifs
 
@@ -93,18 +106,7 @@ L'objectif principal du projet est de mener une **mission de conception *in sili
 
 ---
 
-## 4. Hypothèses de recherche
 
-### Hypothèse principale
-Un photosensibilisateur de 3ᵉ génération, optimisé par modélisation moléculaire et adapté aux propriétés optiques du tissu utérin, permettra une destruction sélective et efficace des cellules myomateuses via la thérapie photodynamique.
-
-### Hypothèses secondaires
-1. Les fibromes présentent une signature moléculaire exploitable pour le ciblage sélectif d’un PS.  
-2. L’optimisation des propriétés photophysiques du PS (absorption proche infrarouge, solubilité, stabilité) améliore la pénétration tissulaire.  
-3. La modélisation in silico permet de prédire l'affinité, la stabilité et la toxicité potentielle du PS.  
-4. La PDT pourrait représenter une alternative accessible et moins invasive pour les systèmes de santé, notamment en Afrique.
-
----
 
 ## 5. Objectifs
 
