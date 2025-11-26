@@ -50,7 +50,7 @@ Le mécanisme est basé sur une interaction de trois éléments non toxiques :
 
 L'accessibilité endoscopique à l'utérus place la PDT au premier plan pour le traitement des lésions endométriales.
 
-*   **Préservation de la fertilité dans le cancer endométrial** : La PDT a été évaluée comme une stratégie conservatrice pour les jeunes patientes atteintes de cancer de l'endomètre de stade précoce \cite{Choi2013, CorreiaBarros2022}. Une étude de suivi à long terme a montré que l'application de TPD après injection intraveineuse d'un photosensibilisateur, suivie d'une illumination au laser rouge (630 nm), a permis une **préservation de la fertilité** avec des taux de réponse complète pathologique \cite{Choi2013}.
+*   **Préservation de la fertilité dans le cancer endométrial** : La PDT a été évaluée comme une stratégie conservatrice pour les jeunes patientes atteintes de cancer de l'endomètre de stade précoce \cite{Choi2013, CorreiaBarros2022}. Une étude de suivi à long terme a montré que l'application de PDT après injection intraveineuse d'un photosensibilisateur, suivie d'une illumination au laser rouge (630 nm), a permis une **préservation de la fertilité** avec des taux de réponse complète pathologique \cite{Choi2013}.
 *   **Adénomyose et endométriose** : Le traitement de l'**adénomyose** est difficile, car les approches chirurgicales conservatrices (adénomyomectomie) présentent un **risque élevé de rupture utérine** pendant la grossesse \cite{CorreiaBarros2022a}. Cependant, la TPD utilisant le précurseur **5-Aminolévulinique (5-ALA)** est prometteuse car les cellules d'adénomyose présentent une susceptibilité et une absorption du 5-ALA supérieures au tissu environnant \cite{CorreiaBarros2022a}. Le 5-ALA est également utilisé pour l'**ablation endométriale** et le traitement de l'**endométriose** \cite{CorreiaBarros2022}.
 
 
@@ -60,8 +60,8 @@ Pour que la PDT soit efficace contre les fibromes, qui sont des tumeurs myométr
 
 *   **PS de Nouvelle Génération et Pénétration Tissulaire** : La recherche se concentre sur des agents qui absorbent dans la **fenêtre thérapeutique du proche infrarouge (NIR-I, 600–900 nm)** pour maximiser la pénétration de la lumière \cite{Correia2021}.
     *   Les **Chlorines à cycle fusionné** (*Ring-fused chlorins*) sont étudiées précisément pour leur **forte absorption dans la région spectrale 600–800 nm** et leur phototoxicité élevée \cite{Correia2021}.
-*   **Théranostique et Sélectivité** : L'approche théranostique (diagnostic + thérapie) est clé pour **augmenter la sélectivité aux tumeurs** \cite{Correia2021}. Les **dérivés de Platine(II) des Chlorines** sont un exemple de ces agents, combinant l'**imagerie par luminescence** et la TPD \cite{Correia2021}.
-*   **Mécanismes Quantiques (SOC)** : L'efficacité de la TPD est liée au **Couplage Spin-Orbite (SOC)** du PS, qui contrôle la vitesse de passage de l'état singulet (S1, excité par la lumière) à l'état triplet (T1, producteur de ROS) \cite{Correia2021}. L'ajout d'**atomes lourds** (comme l'iode ou le brome) est une stratégie courante pour augmenter le SOC.
+*   **Théranostique et Sélectivité** : L'approche théranostique (diagnostic + thérapie) est clé pour **augmenter la sélectivité aux tumeurs** \cite{Correia2021}. Les **dérivés de Platine(II) des Chlorines** sont un exemple de ces agents, combinant l'**imagerie par luminescence** et la PDT \cite{Correia2021}.
+*   **Mécanismes Quantiques (SOC)** : L'efficacité de la PDT est liée au **Couplage Spin-Orbite (SOC)** du PS, qui contrôle la vitesse de passage de l'état singulet (S1, excité par la lumière) à l'état triplet (T1, producteur de ROS) \cite{Correia2021}. L'ajout d'**atomes lourds** (comme l'iode ou le brome) est une stratégie courante pour augmenter le SOC.
 
 
 
@@ -73,11 +73,11 @@ Bien que prometteuse, la thérapie photodynamique actuellement ne dispose pas de
 **Problématique :**  
 *Comment concevoir, modéliser et évaluer un photosensibilisateur de 3ᵉ génération capable de cibler efficacement les fibromes utérins tout en préservant le myomètre sain ?
 
-## 3. Justification du Projet et Objectifs
+## 3. Justification du projet et objectifs
 
-### 3.1. Justification : La Nécessité de la Conception Moléculaire *In Silico*
+### 3.1. Justification : La nécessité de la conception moléculaire *In Silico*
 
-Malgré le potentiel de la TPD, son application aux fibromes intramuraux est limitée par le manque de photosensibilisateurs dotés des propriétés physico-chimiques optimales (bonne solubilité, fort rendement quantique en oxygène singulet et absorption profonde).
+Malgré le potentiel de la PDT, son application aux fibromes intramuraux est limitée par le manque de photosensibilisateurs dotés des propriétés physico-chimiques optimales (bonne solubilité, fort rendement quantique en oxygène singulet et absorption profonde).
 
 La **modélisation moléculaire** et la **chimie computationnelle** constituent des outils fondamentaux pour le développement rationnel d'agents photoactifs de troisième génération \cite{Correia2021}. Ces outils permettent de **prédire l'efficacité photodynamique** (par l'estimation du SOC et du rendement en oxygène singulet) et d'**optimiser l'absorption dans la fenêtre NIR** avant la synthèse expérimentale.
 
