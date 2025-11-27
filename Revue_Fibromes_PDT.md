@@ -7,10 +7,11 @@ Ce projet de recherche porte sur l' optimisation des fluorophores organiques pou
 
 ### 1.1. Définition
 
-Les **fibromes utérins** (léiomyomes ou myomes) sont la **tumeur gynécologique bénigne la plus fréquente** chez la femme . Ces tumeurs, formées par la prolifération de cellules musculaires lisses de l'utérus, sont fortement influencées par les **hormones stéroïdes ovariennes** (œstrogènes et progestérone) .
+Les **fibromes utérins** (léiomyomes ou myomes) sont la **tumeur gynécologique bénigne la plus fréquente** chez la femme . Ces tumeurs, formées par la prolifération de cellules musculaires lisses de l'utérus, sont fortement influencées par les **hormones stéroïdes ovariennes** (œstrogènes et progestérone).
+Bien que leur étiologie reste encore mal comprise, il est admis qu’une élévation des taux d’œstrogènes et éventuellement de la progestérone favorise leur croissance.
 
 ### 1.2. Prévalence et spécificités régionales
-La prévalence est extrêmement élevée : les myomes se retrouvent chez **20 % à 50 %** des femmes en âge de procréer . Des variations significatives existent selon l'ethnicité, le risque à vie dépassant **80 % chez les femmes noires** contre $70 \%$ chez les femmes blanches .
+La prévalence est extrêmement élevée : les myomes se retrouvent chez **20 % à 50 %** des femmes en âge de procréer . Des variations significatives existent selon l'ethnicité, le risque à vie dépassant **80 % chez les femmes noires** contre **$70 \%$ chez les femmes blanche**s .
 
 En **Afrique subsaharienne**, les fibromes représentent un problème de santé publique majeur \cite{Hortence2021}.
 *   Au Cameroun, à l'Hôpital Central de Yaoundé, les fibromes représentaient une fréquence de **14 % des cas d'hospitalisation gynécologique** entre 2013 et 2018. Ils touchent majoritairement les femmes jeunes, avec un âge médian de 37,47 ans .
