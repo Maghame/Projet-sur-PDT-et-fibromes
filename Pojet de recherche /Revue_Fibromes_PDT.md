@@ -19,7 +19,6 @@ En **Afrique subsaharienne**, les fibromes représentent un problème de santé 
 *   Au Mali (Bamako), l'âge moyen des patientes est de 37 ans. L'incidence élevée dans ce contexte s'explique par la forte fréquence des **fibromes multiples** (86,8 % des cas au Cameroun).
 
 
-
 **2.  Limitations des traitements actuels**
 
 Les thérapies existantes présentent des inconvénients majeurs :
@@ -56,9 +55,6 @@ Le mécanisme est basé sur une interaction de trois éléments non toxiques :
 3.  L'**illumination** par une lumière de longueur d'onde spécifique.
 
 
-Le succès d'une PDT pour les fibromes repose sur la résolution **simultanée et intégrée** de trois défis :
-
-#### **1. Le défi biologique : Cibler sélectivement les fibromes**
 
 ##### **Problématique**
 
@@ -73,11 +69,12 @@ De plus, la mise en œuvre de la PDT dans les myomes se heurte à deux types de 
 
 * **Physiques**, en particulier la pénétration limitée de la lumière dans les tissus utérins profonds.
 
-Dans ce contexte, se pose la **question centrale** :  Comment surmonter les defis biologiques et physiques (pénétration lumineuse) de la PDT dans le diagnostique et le traitement des fibromes utérin, afin d’assurer un traitement sélectif des fibromes tout en préservant le myomètre sain ?
+Dans ce contexte, se pose la **question centrale** :  Comment surmonter les defis biologiques et physiques (pénétration lumineuse) de la PDT dans le diagnostique et le traitement des fibromes utérins, afin d’assurer un traitement sélectif des fibromes tout en préservant le myomètre sain ?
 
 
+### Interrogation 2 : Comment intégrer les défis majeurs au sein d'une approche thérapeutique unique ?
 
-### 2.3. Avancées technologiques et conception de sondes photoactives
+###  Avancées technologiques et conception de sondes photoactives
 
 Pour que la PDT soit efficace contre les fibromes, qui sont des tumeurs myométriales potentiellement profondes, il est crucial d'utiliser des photosensibilisateurs (PS) capables d'être activés par des **longueurs d'onde plus longues**.
 
@@ -85,9 +82,6 @@ Pour que la PDT soit efficace contre les fibromes, qui sont des tumeurs myométr
     *   Les **Chlorines à cycle fusionné** (*Ring-fused chlorins*) sont étudiées précisément pour leur **forte absorption dans la région spectrale 600–800 nm** et leur phototoxicité élevée \cite{Correia2021}.
 *   **Théranostique et Sélectivité** : L'approche théranostique (diagnostic + thérapie) est clé pour **augmenter la sélectivité aux tumeurs** \cite{Correia2021}. Les **dérivés de Platine(II) des Chlorines** sont un exemple de ces agents, combinant l'**imagerie par luminescence** et la PDT \cite{Correia2021}.
 *   **Mécanismes Quantiques (SOC)** : L'efficacité de la PDT est liée au **Couplage Spin-Orbite (SOC)** du PS, qui contrôle la vitesse de passage de l'état singulet (S1, excité par la lumière) à l'état triplet (T1, producteur de ROS) \cite{Correia2021}. L'ajout d'**atomes lourds** (comme l'iode ou le brome) est une stratégie courante pour augmenter le SOC.
-
-
-
 
 
 ## 3. Justification du projet et objectifs
