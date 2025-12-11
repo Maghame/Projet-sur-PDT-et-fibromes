@@ -4,41 +4,48 @@
 Ce projet de recherche porte sur l' optimisation des fluorophores organiques pour une thérapie photodynamique appliquée aux fibromes uterins (des tumeurs qui se développent à partir des cellules musculaires lisses de l'utérus), affection touchant 70-80% des femmes en âge de procréer. L'objectif est de concevoir, modéliser et benchmarker des sondes photoactives pour la théranothérapie (imagerie et traitement) des fibromes utérins via des approches computationnelles avancées. 
 
 ## Interrogation 1 : Les fibromes utérins, un défi thérapeutique unique nécessitant une approche moléculaire ?
-## 1. Contexte général 
 
-### 1.1. Définition
+### Interrogation 1 : Les fibromes utérins, un défi thérapeutique nécessitant une approche moléculaire ?
 
-Les **fibromes utérins** (léiomyomes ou myomes) sont la **tumeur gynécologique bénigne la plus fréquente** chez la femme .Ces néoplasmes bénins sont fortement dépendants des œstrogènes, ce qui explique leur rareté avant la puberté et leur régression habituelle après la ménopause.
-Bien que leur étiologie reste encore mal comprise, il est admis qu’une élévation des taux d’œstrogènes et éventuellement de la progestérone favorise leur croissance.
+Les fibromes utérins (également appelés léiomyomes ou myomes) représentent la tumeur gynécologique bénigne la plus fréquente chez la femme. Leur développement est fortement hormono-dépendant, en particulier des œstrogènes, ce qui explique leur rareté avant la puberté et leur tendance à régresser après la ménopause.
 
-### 1.2. Prévalence et spécificités régionales
+Le choix des fibromes utérins comme cible thérapeutique pour ce travail de recherche apparaît particulièrement pertinent pour plusieurs raisons :
+
+### ** 1. Un problème de santé publique mondiale**
+
+###  Prévalence et spécificités régionales
 La prévalence est extrêmement élevée : les myomes se retrouvent chez **20 % à 50 %** des femmes en âge de procréer . Des variations significatives existent selon l'ethnicité, le risque à vie dépassant **80 % chez les femmes noires** contre **$70 \%$ chez les femmes blanche**s .
 
 En **Afrique subsaharienne**, les fibromes représentent un problème de santé publique majeur \cite{Hortence2021}.
-*   Au Cameroun, à l'Hôpital Central de Yaoundé, les fibromes représentaient une fréquence de **14 % des cas d'hospitalisation gynécologique** entre 2013 et 2018. Ils touchent majoritairement les femmes jeunes, avec un âge médian de 37,47 ans .
+* Au Cameroun, environ 15 à 20 % des patientes hospitalisées pour troubles gynécologiques au Cameroun présentent des fibromes utérins. Ils touchent majoritairement les femmes jeunes, avec un âge médian de 37 à 47 ans .
 *   Au Mali (Bamako), l'âge moyen des patientes est de 37 ans. L'incidence élevée dans ce contexte s'explique par la forte fréquence des **fibromes multiples** (86,8 % des cas au Cameroun).
 
-Le choix des fibromes utérins comme cible thérapeutique est stratégique et urgent pour plusieurs raisons :
 
-A. Un problème de santé publique mondiale
 
-Prévalence : 70-80% des femmes développent des fibromes durant leur vie
-Impact économique : >20 milliards USD/an (traitements, absentéisme)
-Qualité de vie : Saignements abondants, douleurs pelviennes, infertilité, complications obstétricales
-Disparités ethniques : Incidence 2-3× plus élevée chez les femmes afro-descendantes
+### 2.  Limitations des traitements actuels
 
-### 1.4. Limites des thérapies standard et impératif de conservation de la fertilité
+Les thérapies existantes présentent des inconvénients majeurs :
 
-Les fibromes utérins sont la **première cause d'hystérectomie** pour lésions bénignes chez les femmes en âge de procréer. La nécessité de préserver la fertilité, face à l'augmentation de l'âge de la première grossesse, souligne les limites des options thérapeutiques invasives :
+| **Traitement** | **Limitations** | **Impact fertilité** |
+|---------------|----------------|---------------------|
+| **Myomectomie chirurgicale** | Invasive, cicatrices utérines, récidive 15-20% | ⚠️ Risque rupture utérine grossesse |
+| **Hystérectomie** | Perte définitive fertilité | ❌ Stérilité |
+| **Embolisation (UAE)** | Ischémie utérine, récidive 20-30% | ⚠️⚠️ Réserve ovarienne diminuée |
+| **HIFU** | Coût élevé, accès limité, récidive 15-25% | ⚠️ Données limitées |
+| **Traitements hormonaux** | Temporaires, effets secondaires, récidive post-arrêt | ⚠️ Contraceptif pendant traitement |
 
-1.  **Chirurgie Radical (Hystérectomie)** : Elle représente souvent le traitement définitif, mais elle impose une **stérilité irréversible** \cite{Choi2013}.
-2.  **Chirurgie Conservatrice (Myomectomie)** : La myomectomie a été la méthode chirurgicale la plus utilisée dans certaines séries africaines (42,5 % au Mali) \cite{fibr.pdf}. Cependant, elle est grevée d'un risque non négligeable de **récidive des myomes** \cite{fibr.pdf}, un antécédent de récidive ayant été observé chez 9,2 % des patientes au Mali \cite{fibr.pdf}.
-3.  **Embolisation de l’Artère Utérine (UAE)** : Bien que l'UAE soit une option pour les femmes cherchant à préserver leur fertilité, son application est limitée par l'incertitude quant à ses **effets sur la conception et la grossesse** \cite{Krishnan2024}. Des complications graves, notamment la **rupture utérine lors de l'accouchement**, ont été signalées après l'UAE \cite{Krishnan2024}.
-4.  **Ultrasons Focalisés de Haute Intensité (HIFU)** : Le HIFU nécessite souvent des **sessions multiples** (jusqu'à 50 % des femmes) et présente un risque de complications telles que les brûlures cutanées ou la sciatalgie \cite{Krishnan2024}.
-5.  **Thérapies Médicales** : Les analogues de la **GnRH** sont recommandés pour une période restreinte en raison de leurs **effets indésirables** sur la masse osseuse \cite{Krishnan2024}.
+**Besoin médical non satisfait** : Une thérapie **sélective**, **minimalement invasive**, **préservant la fertilité** et **ciblant spécifiquement les cellules léiomyomateuses**.
 
-Face à ces limites qui compromettent soit la fonction, soit la sécurité, le développement de **traitements conservateurs minimaux et hautement sélectifs** est impératif.
-***
+#### **3. Les fibromes comme modèle biologique unique**
+
+Contrairement aux cancers, les fibromes sont des **tumeurs bénignes hormono-dépendantes** avec une biologie distincte :
+
+- **Absence d'effet EPR** (Enhanced Permeability and Retention) : pas d'angiogenèse anarchique comme les cancers malins.
+- **Nécessité d'un ciblage actif** : Les approches passives (nanoparticules accumulées via EPR) ne fonctionneront pas.
+- **Biomarqueurs spécifiques identifiés** : GPR10, récepteurs hormonaux (ER/PR), intégrine β1.
+- **Métabolisme différent** : Dépendance aux œstrogènes et progestérone.
+
+**Hypothèse centrale** : En développant une PDT ciblée pour les fibromes, nous établissons une **plateforme technologique** potentiellement applicable à d'autres tumeurs bénignes hormono-dépendantes (adénomes, hyperplasies). 
 
 ## 2. Contexte scientifique et technologique : La thérapie photodynamique comme stratégie théranostique
 
