@@ -5,11 +5,9 @@
 
 ## 1. Introduction et Objectifs : Vers une Révolution Thérapeutique en Gynécologie
 
-Ce projet de thèse vise à développer une approche thérapeutique innovante pour les fibromes utérins (léiomyomes), affection touchant 70-80% des femmes en âge de procréer, en répondant à des interrogations scientifiques et cliniques fondamentales. Cette recherche pionnière s'inscrit dans un domaine totalement inexploré : **aucune étude sur la PDT appliquée aux fibromes n'a été publiée à ce jour**.
+Ce projet de thèse vise à développer une approche thérapeutique innovante pour les fibromes utérins (léiomyomes), affection touchant 70-80% des femmes en âge de procréer, en répondant à des interrogations scientifiques et cliniques fondamentales. Cette recherche s'inscrit dans un domaine totalement inexploré.
 
----
-
-### Interrogation 1 : Les fibromes utérins, un défi thérapeutique unique nécessitant une approche moléculaire ?
+### Interrogation 1 : Les fibromes utérins, un défi thérapeutique nécessitant une approche moléculaire ?
 
 Le choix des **fibromes utérins** comme cible thérapeutique est **stratégique et urgent** pour plusieurs raisons :
 
