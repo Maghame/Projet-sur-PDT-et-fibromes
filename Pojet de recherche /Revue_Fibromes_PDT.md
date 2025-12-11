@@ -77,7 +77,7 @@ De plus, la mise en œuvre de la PDT dans les myomes se heurte à deux types de 
 
 * **Physiques**, en particulier la pénétration limitée de la lumière dans les tissus utérins profonds.
 
-Dans ce contexte, se pose la **question centrale** :  Comment surmonter les defis biologiques et physiques (pénétration lumineuse) liés à la PDT dans le diagnostique et le traitement des fibromes utérin, afin d’assurer un traitement sélectif des fibromes tout en préservant le myomètre sain ?
+Dans ce contexte, se pose la **question centrale** :  Comment surmonter les defis biologiques et physiques (pénétration lumineuse) de la PDT dans le diagnostique et le traitement des fibromes utérin, afin d’assurer un traitement sélectif des fibromes tout en préservant le myomètre sain ?
 
 ## 3. Justification du projet et objectifs
 
