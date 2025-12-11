@@ -68,13 +68,16 @@ Pour que la PDT soit efficace contre les fibromes, qui sont des tumeurs myométr
 
 ## 3. Problématique
 
-Les fibromes utérins représentent un problème majeur de santé publique et les traitements actuels restent limités.  
-Bien que prometteuse, la thérapie photodynamique actuellement ne dispose pas de photosensibilisateur spécifiquement optimisé pour cibler les cellules de fibrome, d’où la nécessité d’une conception de **photosensibilisateurs de 3ᵉ génération**.
+Les fibromes utérins constituent un enjeu majeur de santé publique, et les options thérapeutiques actuellement disponibles demeurent limitées, en particulier pour les patientes souhaitant préserver leur fertilité.
+La (PDT), bien qu’elle ait montré un fort potentiel dans le traitement de cancer en gynécologie, ne dispose encore d’aucun photosensibilisateur spécifiquement conçu pour cibler les cellules de fibrome, ce qui limite son application clinique.
 
+De plus, la mise en œuvre de la PDT dans les myomes se heurte à deux types de défis :
 
+*  **Biologiques**, liés aux particularités cellulaires et moléculaires du fibrome ;
 
-**Problématique :**  
-*Comment concevoir, modéliser et évaluer un photosensibilisateur de 3ᵉ génération capable de cibler efficacement les fibromes utérins tout en préservant le myomètre sain ?
+* **Physiques**, en particulier la pénétration limitée de la lumière dans les tissus utérins profonds.
+
+Dans ce contexte, se pose la **question centrale** :  Comment surmonter les defis biologiques et physiques (pénétration lumineuse) liés à la PDT dans le diagnostique et le traitement des fibromes utérin, afin d’assurer un traitement sélectif des fibromes tout en préservant le myomètre sain ?
 
 ## 3. Justification du projet et objectifs
 
