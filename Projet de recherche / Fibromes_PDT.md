@@ -12,11 +12,11 @@ Le choix des fibromes utérins comme cible thérapeutique pour ce travail de rec
 **1. Un problème de santé publique mondiale**
 
 * **Prévalence et spécificités régionales**
-La prévalence est extrêmement élevée : les myomes se retrouvent chez **20 % à 50 %** des femmes en âge de procréer . Des variations significatives existent selon l'ethnicité, le risque à vie dépassant **80 % chez les femmes noires** contre **$70 \%$ chez les femmes blanche**s .
+Les fibromes utérins représentent un enjeu majeur de santé publique, particulièrement pour les femmes en âge de procréer. Au niveau mondial, on estime qu'ils affectent **70 à 80%** des femmes au cours de leur vie. Cette prévalence est particulièrement élevée chez les femmes d'ascendance africaine qui ont 3 à 4 fois plus de risques d'en développer, avec une survenue plus précoce et des fibromes souvent plus volumineux et plus nombreux.
 
-En **Afrique subsaharienne**, les fibromes représentent un problème de santé publique majeur \cite{Hortence2021}.
-* Au Cameroun, environ 15 à 20 % des patientes hospitalisées pour troubles gynécologiques au Cameroun présentent des fibromes utérins. Ils touchent majoritairement les femmes jeunes, avec un âge médian de 37 à 47 ans .
-*   Au Mali (Bamako), l'âge moyen des patientes est de 37 ans. L'incidence élevée dans ce contexte s'explique par la forte fréquence des **fibromes multiples** (86,8 % des cas au Cameroun).
+En **Afrique subsaharienne**, plus de 70% des femmes de plus de 30 ans sont concernées dans certaines régions (Afrique Australe en rouge 40% , Afrique de l'Ouest 35%, Afrique de l'Est 30% et Afrique Centrale 20%). L'impact sur la qualité de vie est considérable : ménorragies entraînant une anémie sévère, douleurs pelviennes chroniques, troubles de la fertilité, et complications obstétricales. Sur le plan socio-économique, les fibromes génèrent des coûts importants liés aux traitements, aux hospitalisations, et à la perte de productivité. Dans le contexte africain, l'accès limité aux soins, le diagnostic tardif et le coût des traitements conventionnels aggravent cette problématique.
+
+Au Cameroun, environ 15 à 20 % des patientes hospitalisées pour troubles gynécologiques au Cameroun présentent des fibromes utérins. Ils touchent majoritairement les femmes jeunes, avec un âge médian de 37 à 47 ans .
 
 
 **2.  Limitations des traitements actuels**
